@@ -1,0 +1,22 @@
+{
+  "name": "Flappy Bull",
+  "short_name": "FlappyBull",
+  "description": "Flappy Bull - The Big Bull Game",
+  "start_url": "/flappy-bull/index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1a0a2e",
+  "theme_color": "#1a0a2e",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lokeshagarwal1106/flappy-bull/main/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/lokeshagarwal1106/flappy-bull/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
